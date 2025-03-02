@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="350" alt="coding-animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-animation" />
 </div>
 
 ## 👨‍💻 About Me
@@ -131,30 +131,6 @@ const developer = {
   </div>
 </details>
 
-<details>
-  <summary><h2>👨‍💻 Coding Challenges</h2></summary>
-  <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Shreeniwas1?theme=dark&font=Adamina" alt="LeetCode Stats"/>
-    <!-- Add your CodeForces or HackerRank widgets here -->
-  </div>
-</details>
-
-<details>
-  <summary><h2>📚 Latest Blog Posts</h2></summary>
-  
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This section will be automatically updated with your latest blog posts using a GitHub action -->
-  <!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-  <summary><h2>⚡ Recent Activity</h2></summary>
-  
-  <!--RECENT_ACTIVITY:start-->
-  <!-- This section will be automatically updated with your recent GitHub activity using a GitHub action -->
-  <!--RECENT_ACTIVITY:end-->
-</details>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -174,17 +150,11 @@ const developer = {
   <!--END_SECTION:waka-->
 </div>
 
-<!-- <div align="center">
-  <h3>🎵 Spotify Now Playing</h3>
-  
-  [![Spotify](https://novatorem-git-main-Shreeniwas1.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
-</div> -->
-
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   <br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
+````
