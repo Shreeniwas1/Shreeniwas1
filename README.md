@@ -98,7 +98,7 @@ const developer = {
   <div align="center">
     <h3>🚀 Hackathon Wins</h3>
     <div style="background-color: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px 0;">
-      <h4>NASA Space Apps Challenge 2023</h4>
+      <h4>NASA Space Apps Challenge (VIT-AP centre)</h4>
       <p>🏆 Best Local Impact Award</p>
       <p>Project: ProFarm</p>
     </div>
