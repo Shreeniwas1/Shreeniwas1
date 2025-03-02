@@ -24,9 +24,18 @@ const developer = {
   currentlyLearning: "Advanced JavaScript",
   askMeAbout: ["web dev", "tech", "MATLAB"],
   technologies: {
-    frontEnd: ["HTML", "CSS", "JavaScript"],
-    backEnd: ["SQL", "PostgreSQL"],
+    frontEnd: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    backEnd: ["Node.js", "SQL", "PostgreSQL"],
+    cloud: ["Firebase", "Supabase", "Cloudflare"],
     scientific: ["MATLAB"]
+  },
+  achievements: {
+    hackathons: [
+      {
+        name: "NASA Space Apps Challenge (VIT-AP centre)",
+        award: "Best Local Impact Award",
+      }
+    ]
   }
 };
 ```
@@ -34,9 +43,9 @@ const developer = {
 <details>
   <summary><h2>🎯 Goals for 2024</h2></summary>
   <ul>
-    <li>✅ GOAL_1</li>
-    <li>🚧 GOAL_2</li>
-    <li>🔜 GOAL_3</li>
+    <li>🏆 Improve Google Analytics score to 80%+</li>
+    <li>🚀 Launch Anantavat with a fully functional microblogging platform</li>
+    <li>🔥 Master backend development with Node.js and Supabase</li>
   </ul>
 </details>
 
@@ -49,6 +58,21 @@ const developer = {
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </p>
+
+    <!-- Backend & Cloud -->
+    <h3>Backend & Cloud</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+    </p>
+
+    <!-- Frontend Frameworks -->
+    <h3>Frontend Frameworks</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </p>
 
     <!-- Database -->
@@ -94,6 +118,18 @@ const developer = {
 </details>
 
 <details>
+  <summary><h2>🏆 Achievements</h2></summary>
+  <div align="center">
+    <h3>🚀 Hackathon Wins</h3>
+    <div style="background-color: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px 0;">
+      <h4>NASA Space Apps Challenge 2023</h4>
+      <p>🏆 Best Local Impact Award</p>
+      <p>Project: ProFarm</p>
+    </div>
+  </div>
+</details>
+
+<details>
   <summary><h2>🏆 GitHub Trophies</h2></summary>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Shreeniwas1&theme=discord&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -116,6 +152,14 @@ const developer = {
     <a href="https://github.com/Shreeniwas1/PROJECT_4">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreeniwas1&repo=PROJECT_4&theme=react&hide_border=true&bg_color=0D1117" alt="Project 4" />
     </a>
+  </div>
+</details>
+
+<details>
+  <summary><h2>👨‍💻 Coding Challenges</h2></summary>
+  <div align="center">
+    <img src="https://leetcard.jacoblin.cool/Shreeniwas1?theme=dark&font=Adamina" alt="LeetCode Stats"/>
+    <!-- Add your CodeForces or HackerRank widgets here -->
   </div>
 </details>
 
@@ -154,11 +198,11 @@ const developer = {
   <!--END_SECTION:waka-->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🎵 Spotify Now Playing</h3>
   
   [![Spotify](https://novatorem-git-main-Shreeniwas1.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
-</div>
+</div> -->
 
 ---
 
