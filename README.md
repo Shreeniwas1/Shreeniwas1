@@ -5,9 +5,9 @@
 <h1 align="center">✨ Software Developer | Tech Enthusiast | Problem Solver ✨</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Shreeniwas1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shreeniwas1?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Shreeniwas1?label=Stars&style=social" alt="Stars" />
 </p>
 
 <div align="center">
@@ -71,32 +71,32 @@ const developer = {
   
   <h3>Activity Stats</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shreeniwas1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreeniwas1&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </div>
 
   <h3>Languages and Contribution</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="GitHub Profile Summary" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeniwas1&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeniwas1&theme=github_dark" alt="GitHub Profile Summary" />
   </div>
 
   <h3>Productivity Stats</h3>
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark" alt="Commits per time of day" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top Languages by Repo" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreeniwas1&theme=github_dark" alt="Commits per time of day" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreeniwas1&theme=github_dark" alt="Top Languages by Repo" />
   </div>
 
   <h3>Contribution Graph</h3>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreeniwas1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   </div>
 </details>
 
 <details>
   <summary><h2>🏆 GitHub Trophies</h2></summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shreeniwas1&theme=discord&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
   </div>
 </details>
 
@@ -104,17 +104,17 @@ const developer = {
   <summary><h2>📂 Featured Projects</h2></summary>
   
   <div align="center">
-    <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=react&hide_border=true&bg_color=0D1117" alt="Project 1" />
+    <a href="https://github.com/Shreeniwas1/PROJECT_1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreeniwas1&repo=PROJECT_1&theme=react&hide_border=true&bg_color=0D1117" alt="Project 1" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=react&hide_border=true&bg_color=0D1117" alt="Project 2" />
+    <a href="https://github.com/Shreeniwas1/PROJECT_2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreeniwas1&repo=PROJECT_2&theme=react&hide_border=true&bg_color=0D1117" alt="Project 2" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=react&hide_border=true&bg_color=0D1117" alt="Project 3" />
+    <a href="https://github.com/Shreeniwas1/PROJECT_3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreeniwas1&repo=PROJECT_3&theme=react&hide_border=true&bg_color=0D1117" alt="Project 3" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=react&hide_border=true&bg_color=0D1117" alt="Project 4" />
+    <a href="https://github.com/Shreeniwas1/PROJECT_4">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreeniwas1&repo=PROJECT_4&theme=react&hide_border=true&bg_color=0D1117" alt="Project 4" />
     </a>
   </div>
 </details>
@@ -157,7 +157,7 @@ const developer = {
 <div align="center">
   <h3>🎵 Spotify Now Playing</h3>
   
-  [![Spotify](https://novatorem-git-main-YOUR_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+  [![Spotify](https://novatorem-git-main-Shreeniwas1.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
 </div>
 
 ---
