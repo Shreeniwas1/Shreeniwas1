@@ -4,6 +4,8 @@ Full-stack developer and software architect building practical web products, dev
 
 Currently focused on full-stack product engineering, cloud and DevOps, and creating reliable software with thoughtful user experiences.
 
+building: https://threadcase.in
+
 ## Skills
 
 - **Languages:** Java, Python, C++, JavaScript, TypeScript
