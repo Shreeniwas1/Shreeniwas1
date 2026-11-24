@@ -6,7 +6,7 @@
 <a href="https://github.com/Shreeniwas1/ProFarm-NASA-space-apps-"><picture><source media="(max-width: 1011px)" srcset="assets/work-profarm-m.svg"><img src="assets/work-profarm.svg" alt="ProFarm. Crop guidance, district rainfall and yield maps for farmers, in one dashboard. Built with JavaScript, Express, Leaflet. won Best Local Impact, NASA Space Apps" width="100%" align="top"></picture></a>
 <a href="https://devlogue.pages.dev/"><picture><source media="(max-width: 1011px)" srcset="assets/stack-m.svg"><img src="assets/stack.svg" alt="Skills. Languages: Java, Python, C++, JavaScript, TypeScript. Frontend: React, Next.js, HTML, CSS. Backend and data: Node.js, SQL, Supabase. Cloud and tooling: AWS, Docker, Git." width="100%" align="top"></picture></a>
 <a href="https://devlogue.pages.dev/"><picture><source media="(max-width: 1011px)" srcset="assets/hire-m.svg"><img src="assets/hire.svg" alt="Cracks spread through the page, a portal tears open, and a pixel version of Shreeniwas walks out, plants a flag that says HIRE ME, and is followed by a pixel cat. Open to internships and job offers. Portfolio: devlogue.pages.dev" width="100%" align="top"></picture></a>
-<a href="https://www.linkedin.com/in/shreeniwas-bondge/"><picture><source media="(max-width: 1011px)" srcset="assets/link-hire-me-m.svg"><img src="assets/link-hire-me.svg" alt="Hire me" width="34%" align="top"></picture></a><a href="https://devlogue.pages.dev/"><picture><source media="(max-width: 1011px)" srcset="assets/link-portfolio-m.svg"><img src="assets/link-portfolio.svg" alt="Portfolio" width="33%" align="top"></picture></a><a href="https://devlogue.pages.dev/resume.pdf"><picture><source media="(max-width: 1011px)" srcset="assets/link-resume-m.svg"><img src="assets/link-resume.svg" alt="Résumé" width="33%" align="top"></picture></a>
+<a href="https://www.linkedin.com/in/shreeniwas-b-790262218/"><picture><source media="(max-width: 1011px)" srcset="assets/link-hire-me-m.svg"><img src="assets/link-hire-me.svg" alt="Hire me" width="34%" align="top"></picture></a><a href="https://devlogue.pages.dev/"><picture><source media="(max-width: 1011px)" srcset="assets/link-portfolio-m.svg"><img src="assets/link-portfolio.svg" alt="Portfolio" width="33%" align="top"></picture></a><a href="https://devlogue.pages.dev/resume.pdf"><picture><source media="(max-width: 1011px)" srcset="assets/link-resume-m.svg"><img src="assets/link-resume.svg" alt="Résumé" width="33%" align="top"></picture></a>
 </p>
 
 <details>
@@ -28,6 +28,6 @@ Currently focused on full-stack product engineering, cloud and DevOps, and creat
 | Backend and data | Node.js, SQL, Supabase |
 | Cloud and tooling | AWS, Docker, Git |
 
-[LinkedIn](https://www.linkedin.com/in/shreeniwas-bondge/) · [Portfolio](https://devlogue.pages.dev/) · [Résumé](https://devlogue.pages.dev/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/shreeniwas-b-790262218/) · [Portfolio](https://devlogue.pages.dev/) · [Résumé](https://devlogue.pages.dev/resume.pdf)
 
 </details>
